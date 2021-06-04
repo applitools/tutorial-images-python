@@ -1,2 +1,2 @@
-eyes-images>=4.1.9
+eyes-images>=4.21.0
 pytest
