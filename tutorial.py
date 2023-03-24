@@ -1,10 +1,9 @@
-import os
 import io
 import pytest
 import requests
-from PIL import Image
 
 from applitools.images import Eyes, BatchInfo, logger
+from PIL import Image
 
 logger.set_logger(logger.StdoutLogger())
 
